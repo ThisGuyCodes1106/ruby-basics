@@ -1,0 +1,1 @@
+puts "Hello World".inspect #output: "Hello World"
