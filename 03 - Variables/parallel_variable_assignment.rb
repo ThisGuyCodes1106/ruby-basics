@@ -1,0 +1,1 @@
+name, age, isBlonde = "Stefan", 30, false
